@@ -1,0 +1,5 @@
+C:\Users\SPV_s\OneDrive\Documents\Field Creators Studios\Visual Studio\MSB_Applications\MoreSecurityHR\obj\Debug\net8.0-windows\MoreSecurityHR.csproj.AssemblyReference.cache
+C:\Users\SPV_s\OneDrive\Documents\Field Creators Studios\Visual Studio\MSB_Applications\MoreSecurityHR\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\SPV_s\OneDrive\Documents\Field Creators Studios\Visual Studio\MSB_Applications\MoreSecurityHR\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\SPV_s\OneDrive\Documents\Field Creators Studios\Visual Studio\MSB_Applications\MoreSecurityHR\obj\Debug\net8.0-windows\MoreSecurityHR_MarkupCompile.cache
+C:\Users\SPV_s\OneDrive\Documents\Field Creators Studios\Visual Studio\MSB_Applications\MoreSecurityHR\obj\Debug\net8.0-windows\MoreSecurityHR_MarkupCompile.lref

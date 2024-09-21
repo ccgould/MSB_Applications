@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2hYc0KUtVvFCqTRNBa2kkoYyYzcWSvS7JBckX5yRRlH559c5YE4d+M21sBTtA4r9u7Z/eh72QKNmt+uptji2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SPV_s\\OneDrive\\Documents\\Field Creators Studios\\Visual Studio\\MSB_Applications\\MsbSlipManager\\MsbSlipManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SPV_s\\.nuget\\packages\\wpf-ui\\3.0.4\\wpf-ui.3.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

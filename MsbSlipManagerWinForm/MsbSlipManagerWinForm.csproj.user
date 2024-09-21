@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddNewEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeSlipDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExportExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="slipCountPicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SlipTracker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
